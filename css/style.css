@@ -97,6 +97,12 @@ footer {
    margin-top: 20px; 
 }
 
+/* CSS DO CONTATO //////////////*/
+
+main {
+    margin-left: 20px;
+}
+
 form {
     margin: 40px 0;
 }
@@ -132,7 +138,7 @@ form label, form legend {
 
 .enviar:hover {
     background: orangered;
-    transform: scale(1.2);
+    transform: scale(1.05);
 }
 
 table {
@@ -150,7 +156,7 @@ td, th {
     padding: 15px 8px;
 }
     
-/* CSS DA PÁGINA INICIAL */
+/* CSS DA PÁGINA INICIAL //////////////*/
 .banner {
     width: 100%;
 }
